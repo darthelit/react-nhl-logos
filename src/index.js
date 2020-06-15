@@ -30,3 +30,5 @@ export { default as VAN } from "./logos/van";
 export { default as VGK } from "./logos/vgk";
 export { default as WPG } from "./logos/wpg";
 export { default as WSH } from "./logos/wsh";
+
+export { default as RETRO_WPG } from './logos/wpg-retro';

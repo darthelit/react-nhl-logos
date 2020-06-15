@@ -1,5 +1,5 @@
 /// <reference types="react" />
-import { ComponentType, SVGAttributes } from "react";
+import { ComponentType, SVGAttributes } from 'react';
 
 interface Props extends SVGAttributes<SVGElement> {
   size?: string | number;
@@ -38,3 +38,5 @@ export const VAN: Logo;
 export const VGK: Logo;
 export const WPG: Logo;
 export const WSH: Logo;
+
+export const RETRO_WPG: Logo;
